@@ -1,7 +1,7 @@
 class Translation(object):
     START_TEXT = """Hello! <i><b>{}</b></i>,
 
-Your are Using Telegram Best Rename Bot <a href='https://t.me/TM_RenameBot'><b>TM Rename Bot/b></a>.
+Your are Using Telegram Best Rename Bot <a href='https://t.me/TM_RenameBot'><b>TM Rename Bot</b></a>.
 
 I Can rename ✍ with custom thumbnail and upload as video/file
 

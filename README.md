@@ -1,5 +1,5 @@
 # Turbo Renamer
-## Rename Bot - [Renamer⚡](https://t.me/turboremaxbot)
+## Rename Bot - [Renamer⚡](https://t.me/TMRenameBot)
 ---
 
 **My Feature**:

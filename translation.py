@@ -1,5 +1,5 @@
 class Translation(object):
-    START_TEXT = """Hello! <i><b>{}</b></i>,
+    START_TEXT = """Hello! <b>{}</b>,
 
 Your are Using Telegram Best Rename Bot <a href='https://t.me/TM_RenameBot'><b>TM Rename Bot</b></a>.
 

@@ -78,11 +78,11 @@ async def upgrade(bot, update):
 async def donate(bot, update):
        await bot.send_message(
              chat_id=update.chat.id,
-             text="**I am Very Happy to Say We Finally Increased Our Bot Speed , If You Need This Service Kindly Donate Us, Thank You.   You can give us as much as you seem to want to give us. If we do this, we will add many more features to this bot.  Click the Click Here button below**",
+             text="**I am Very Happy to Say We Finally Increased Our Bot Speed , If You Need This Service Kindly Donate Us,\n\nThank You\n\nYou can give us as much as you seem to want to give us. If we do this, we will add many more features to this bot.\n\nClick the Click Here button below**",
              reply_markup=InlineKeyboardMarkup(
              [
                [
-                 InlineKeyboardButton('✅ Donate Us ✨ - https://rzp.io/l/TMBots')
+                 InlineKeyboardButton('✅ Donate Us ✨', url='https://rzp.io/l/TMBots')
                ]
              ]
            )

@@ -1,0 +1,74 @@
+{
+  "name": "TM_RenameBot",
+  "description": "TELEGRAM BEST RENAME BOT ",
+  "keywords": [
+    "telegram",
+    "best",
+    "open",
+    "source",
+    "Rename"
+  ],
+  "success_url": "https://telegram.dog/TM_RenameBot",
+  "website": "https://github.com/SpEcHiDe/AnyDLBot",
+  "repository": "https://github.com/TMAdminz/TM-Rename-Bot",
+  "logo": "https://telegra.ph/file/47c2ddd7c5fee2b140bf4.jpg",
+  "env": {
+    "WEBHOOK": {
+      "description": "Setting this to ANYTHING will enable webhooks when in env mode",
+      "value": "ANYTHING"
+    },
+    "TG_BOT_TOKEN": {
+      "description": "Your bot token, as a string.",
+      "value": "1415164236:AAHJ080O-A6vIbPgnGFADpdqoVGkbAm5Um4"
+    },
+    "USER_NAME": {
+      "description": "Your user name like @JAsuran123",
+      "value": "@Plethro_Admin"
+    },
+    "CHAT_BASE_TOKEN": {
+      "description": "Your chat base token, as a string.",
+      "value": "74f8e151-314e-4927-be62-6c239afd4b7b"
+    },
+    "APP_ID": {
+      "description": "Get this value from https://my.telegram.org",
+      "value": "1667813"
+    },
+    "API_HASH": {
+      "description": "Get this value from https://my.telegram.org",
+      "value": "1f6921c27bf6cd01aba471a14ff33bcb"
+    },
+    "AUTH_USERS": {
+      "description": "allow only pre-defined users to use this bot",
+      "value": ""
+    },
+    "BANNED_USERS": {
+      "description": "Banned Unwanted members..",
+      "value": "",
+      "required": false
+    },
+    "CHUNK_SIZE": {
+      "description": "chunk size that should be used with requests",
+      "value": "128",
+      "required": false
+    }
+  },
+  "addons": [
+    {
+    "plan": "heroku-postgresql",
+      "options": {
+        "version": "12"
+      }
+    }
+  ],
+  "buildpacks": [{
+    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+  }, {
+    "url": "heroku/python"
+  }],
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "free"
+    }
+  }
+}

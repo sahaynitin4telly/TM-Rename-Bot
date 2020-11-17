@@ -29,7 +29,7 @@ Type /help for more details."""
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
     HELP_USER = """Hai <b><i>{}</i></b>, 
 
-I am <a href='https://t.me/TM_RenameBot'><b>TM Rename Bot/b></a> by <a href='https://telegram.dog/Plethro_Admin'><b>Pletro_admin</b></a>
+I am <a href='https://t.me/TM_RenameBot'><b>TM Rename Bot</b></a> by <a href='https://telegram.dog/Plethro_Admin'><b>Pletro_admin</b></a>
     
 1. Send Me A Thumbnail.
 

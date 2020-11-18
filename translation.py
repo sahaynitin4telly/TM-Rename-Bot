@@ -16,7 +16,7 @@ Type /help for more details."""
     UPLOAD_START_VIDEO = "**Uploading Started️**"
     UPLOAD_START = "**Uploading Started️**"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations.I can't do anything for that 🤷‍♂️."
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using [Join](https://t.me/joinchat/AAAAAFIN2ibGFWeYBNj2Xg).**"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using  [Join](https://t.me/joinchat/AAAAAFIN2ibGFWeYBNj2Xg). Please /donate for bot alive**"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds."
     NOT_AUTH_USER_TEXT = "Please /upgrade your subscription."
     NOT_AUTH_USER_TEXT_FILE_SIZE = "Detected File Size: {}. Free Users can only upload: {}\nPlease /upgrade your subscription.\nIf you think this is a bug, please contact <a href='https://t.me/MonkAno'>AI_RenameBot</a>"
@@ -55,5 +55,5 @@ Please short your file name and try again!"""
     About = """Hi **{}**,\n
 **📝 Language:** Python 3
 **🧰 Framework:** Pyrogram
-**👨‍💻 Developer:** <a href='https://telegram.dog/Plethro_Admin'><b>Plethro_Admin</b></a>
-**📮 Channel:** <a href='https://telegram.dog/joinchat/AAAAAFIN2ibGFWeYBNj2Xg'><b>TM_Moviez</b></a>"""
+**👨‍💻 Developer:** [@Plethro_Admin](https://telegram.dog/Plethro_Admin)**
+**📮 Channel:** [@TM_Moviez](https://t.me/joinchat/AAAAAFIN2ibGFWeYBNj2Xg)** """

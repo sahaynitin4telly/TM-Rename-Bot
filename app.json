@@ -20,7 +20,7 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": "1415164236:AAF93KEG5d-qiyTk0g4gIXsrG5qjiBv0IR8"
+      "value": ""
     },
     "USER_NAME": {
       "description": "Your user name like @Plethro_Admin",
@@ -28,15 +28,15 @@
     },
     "CHAT_BASE_TOKEN": {
       "description": "Your chat base token, as a string.",
-      "value": "74f8e151-314e-4927-be62-6c239afd4b7b"
+      "value": ""
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "1667813"
+      "value": ""
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "1f6921c27bf6cd01aba471a14ff33bcb"
+      "value": ""
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",

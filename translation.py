@@ -56,4 +56,4 @@ Please short your file name and try again!"""
 **📝 Language:** Python 3
 **🧰 Framework:** Pyrogram
 **👨‍💻 Developer:** [@Plethro_Admin](https://telegram.dog/Plethro_Admin)**
-**📮 Channel:** [@TM_Moviez](https://t.me/joinchat/AAAAAFIN2ibGFWeYBNj2Xg)** """
+**📮 Channel:** [@TM_Moviez](https://t.me/TM_Moviez)** """

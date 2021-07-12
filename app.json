@@ -12,7 +12,7 @@
   "website": "https://github.com/TMAdminz/TM-Rename-Bot",
   "repository": "https://github.com/TMAdminz/TM-Rename-Bot",
   "logo": "https://telegra.ph/file/170504c96e2fa1ebbc708.jpg",
-  "stack": "heroku-18",
+  "stack": "heroku-20",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
